@@ -16,10 +16,10 @@ Here are some highlights from the application:
 
 | Feature | Screenshot |
 |---------|------------|
-| Landing Page | ![Landing Page](assets/PHOTO-2026-02-13-20-17-55.jpg) |
-| Dashboard | ![Dashboard](assets/PHOTO-2026-02-13-20-17-56.jpg) |
-| Grades | ![Grades](assets/PHOTO-2026-02-19-02-04-41.jpg) |
-| Library | ![Library](assets/PHOTO-2026-02-18-23-37-01.jpg) |
+| Landing Page | <img src="assets/PHOTO-2026-02-13-20-17-55.jpg" width="400"> |
+| Dashboard | <img src="assets/PHOTO-2026-02-13-20-17-56.jpg" width="400"> |
+| Grades | <img src="assets/PHOTO-2026-02-19-02-04-41.jpg" width="400"> |
+| Library | <img src="assets/PHOTO-2026-02-18-23-37-01.jpg" width="400"> |
 
 *(Note: More screenshots are available in the `assets/` directory)*
 
