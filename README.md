@@ -5,10 +5,10 @@ Welcome to the public documentation and demo repository for the Learning Managem
 ## 🌟 Overview
 
 The LMS provides tailored experiences for:
-- **Students**: Course materials, assignments, and grades.
-- **Teachers**: Class management, grading, and attendance.
-- **Admins**: Institution-wide analytics and settings.
-- **Parents**: Performance tracking and communication.
+- **Students**: Materials, assignments, and grade tracking.
+- **Teachers**: Class management, grading, and attendance monitoring.
+- **Admins**: Institution-wide settings and financial management.
+- **Parents**: Performance tracking for linked students.
 
 ## 📸 Screenshots
 
@@ -31,9 +31,9 @@ Watch a walkthrough of the application in action:
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React Native, Expo Router, NativeWind
-- **Backend**: Express.js, Supabase (PostgreSQL, Auth, Edge Functions)
-- **Tools**: TypeScript, Lucide Icons
+- **Frontend**: React Native, Expo Router, NativeWind (Tailwind CSS)
+- **Backend**: Express.js (Node.js), Supabase (PostgreSQL, Auth, Storage)
+- **Tools**: TypeScript, Lucide Icons, Axios
 
 ---
 *For development details, please refer to the private core repository.*
